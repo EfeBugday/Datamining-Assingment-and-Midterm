@@ -1,2 +1,3 @@
 # Datamining-Assingment-and-Midterm
-Repository for the "Datamining for Cybersecurity" Assignment and Midterm
+Abdulkadir Efe Buğday 210408033
+Ali Uğur Gümüşlü 210408007
